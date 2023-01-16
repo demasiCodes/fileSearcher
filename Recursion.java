@@ -1,7 +1,6 @@
 /***
  * @author Daniel DeMasi
  * September 15, 2022
- * CSE017 Fall 2022: ALA4
  * Recursion: searches through computer for a file
  * IDE: VSCode, Java JDK 11
  */
